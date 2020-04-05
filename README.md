@@ -60,3 +60,4 @@ percentage =  percentage complete
 - adding swagger
 - unit testing
 - date validation using regex checking
+- using docker

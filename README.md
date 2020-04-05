@@ -1,4 +1,5 @@
 # TodoApi
+## for Database simulation i am using UseInMemoryDatabase
 ## Get All Todo’s
 - /GET http://localhost:5000/api/todo
 

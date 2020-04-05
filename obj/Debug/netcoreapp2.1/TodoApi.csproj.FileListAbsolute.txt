@@ -1,0 +1,14 @@
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+D:\PROJECT\RESEARCH\dotnetcore\test ciss sp\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
